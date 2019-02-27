@@ -19,4 +19,6 @@ D不同类别不同显著性替换<br>
 ![image](https://github.com/pocketrock/virtual-reality/blob/master/tupianer/figure2.png)
 
 
-[Mozilla](https://www.baidu.com/index.php?tn=56060048_4_pg&ch=12) 
+源码地址<br>  
+
+[Mozilla](https://github.com/pocketrock/virtualreality-Code) 
