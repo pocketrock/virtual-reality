@@ -19,4 +19,4 @@ D不同类别不同显著性替换<br>
 ![image](https://github.com/pocketrock/virtual-reality/blob/master/tupianer/figure2.png)
 
 
-配套项目源码地址<br>  [Mozilla](https://github.com/pocketrock/virtualreality-Code) 
+配套项目源码地址<br>  [源码](https://github.com/pocketrock/virtualreality-Code) 
