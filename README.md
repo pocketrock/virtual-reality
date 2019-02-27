@@ -1,24 +1,22 @@
 # virtual-reality
 
-AÍ¬Àà±ğÍ¬ÏÔÖøĞÔÌæ»»						
-BÍ¬Àà±ğ²»Í¬ÏÔÖøĞÔÌæ»»						
-C²»Í¬Àà±ğÍ¬ÏÔÖøĞÔÌæ»»						
-D²»Í¬Àà±ğ²»Í¬ÏÔÖøĞÔÌæ»»<br>  						
+AåŒç±»åˆ«åŒæ˜¾è‘—æ€§æ›¿æ¢						
+BåŒç±»åˆ«ä¸åŒæ˜¾è‘—æ€§æ›¿æ¢						
+Cä¸åŒç±»åˆ«åŒæ˜¾è‘—æ€§æ›¿æ¢						
+Dä¸åŒç±»åˆ«ä¸åŒæ˜¾è‘—æ€§æ›¿æ¢<br>  						
 	
 		1645.55625	1352.028125	1163.6	  1307.340625 
 
 ![image](https://github.com/pocketrock/virtual-reality/blob/master/tupianyi/figure1.png)
 
-AÍ¬Àà±ğÍ¬ÏÔÖøĞÔÌæ»»					
-BÍ¬Àà±ğ²»Í¬ÏÔÖøĞÔÌæ»»					
-C²»Í¬Àà±ğÍ¬ÏÔÖøĞÔÌæ»»					
-D²»Í¬Àà±ğ²»Í¬ÏÔÖøĞÔÌæ»»<br>  					
+AåŒç±»åˆ«åŒæ˜¾è‘—æ€§æ›¿æ¢					
+BåŒç±»åˆ«ä¸åŒæ˜¾è‘—æ€§æ›¿æ¢					
+Cä¸åŒç±»åˆ«åŒæ˜¾è‘—æ€§æ›¿æ¢					
+Dä¸åŒç±»åˆ«ä¸åŒæ˜¾è‘—æ€§æ›¿æ¢<br>  					
 		
 		2768.533   	2987.72	             3172.681	    2778.763
 
 ![image](https://github.com/pocketrock/virtual-reality/blob/master/tupianer/figure2.png)
 
 
-Ô´ÂëµØÖ·<br>  
-
-[Mozilla](https://github.com/pocketrock/virtualreality-Code) 
+é…å¥—é¡¹ç›®æºç åœ°å€<br>  [Mozilla](https://github.com/pocketrock/virtualreality-Code) 
